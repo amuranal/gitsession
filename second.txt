@@ -1,2 +1,3 @@
-modified file according to 1020 requirement
-pushed from second developer
+The syntax of the command is incorrect.
+updated by developer 1
+
